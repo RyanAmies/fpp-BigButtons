@@ -1,6 +1,6 @@
 <div id="global" class="settings">
 <fieldset>
-<legend>Big Buttons Config</legend>
+<legend>Big Buttons 2024 Config</legend>
 
 <script type="text/javascript">
 function colorChanged(id)
