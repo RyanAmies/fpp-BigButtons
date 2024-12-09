@@ -1,0 +1,24 @@
+{
+  "repoName": "fpp-bigbuttons-2024",
+  "name": "Big Buttons 2024",
+  "author": "Chris Pinkham",
+  "description": "Fix for the big buttons addon",
+  "homeURL": "https://github.com/RyanAmies/fpp-BigButton",
+  "srcURL": "https://github.com/RyanAmies/fpp-BigButton.git",
+  "bugURL": "https://github.com/RyanAmies/fpp-BigButton/issues",
+  "allowUpdates": 1,  
+  "versions": [
+    {
+      "minFPPVersion": "5.0",
+      "maxFPPVersion": "7.99",
+      "branch": "main",
+      "sha": ""
+    },
+    {
+      "minFPPVersion": "8.0",
+      "maxFPPVersion": "0",
+      "branch": "main",
+      "sha": ""
+    }
+  ]
+}
