@@ -7,17 +7,11 @@
   "srcURL": "https://github.com/RyanAmies/fpp-BigButtons.git",
   "bugURL": "https://github.com/RyanAmies/fpp-BigButtons/issues",
   "allowUpdates": 1,  
-  "versions": [
-    {
-      "minFPPVersion": "5.0",
-      "maxFPPVersion": "7.99",
-      "branch": "main",
-      "sha": ""
-    },
+  "versions": [  
     {
       "minFPPVersion": "8.0",
       "maxFPPVersion": "0",
-      "branch": "main",
+      "branch": "master",
       "sha": ""
     }
   ]
